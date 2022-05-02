@@ -6,7 +6,7 @@ authors = ["billyCage77 <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "3.10.2"
-Flask = "^2.0.3"
+Flask = "2.1.1"
 flask-mongoengine = "1.0.0"
 Flask-RESTful = "0.3.9"
 Flask-Bcrypt = "0.7.1"
